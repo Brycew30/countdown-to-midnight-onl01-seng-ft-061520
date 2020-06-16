@@ -4,7 +4,6 @@ while number >=0
   x -= 1
 end
 
-def countdown
-  if "#{number}" == 0
-    puts "HAPPY NEW YEAR!"
-end
+#def countdown
+
+#end
